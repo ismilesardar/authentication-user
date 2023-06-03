@@ -1,0 +1,11 @@
+/*========== Admin =======*/
+Eamil: ismile@gmail.com
+password: 1234567
+
+/*========== user =======*/
+ => If you are Registration this site. you are become a user. So go to Register tab and Sing Up.
+ => Password must be 6 characters.
+ => All fields are required.
+
+Live_link = https://authentication-user.netlify.app
+Git_hub = https://github.com/ismilesardar/authentication-user
